@@ -1,0 +1,13 @@
+Teme laborator
+Tema 1. (5p, termen 05.10 (S.I.) / 12.10 (S.P.)) Transferati unul dintre codurile sursa 01_03_puncte.cpp sau 01_04_poligoane.cpp in versiunea "noua" a OpenGL. Shader-ele sunt citite din fisiere separate.
+Tema 2. (10p, termen 19.10 (S.I.) / 26.10 (S.P.)) Se da un sir de n varfuri, P1, ..., Pn. Programul detecteaza eventualele autointersectii ale liniei poligonale P1...Pn si deseneaza folosind culori diferite muchiile cu intersectii si muchiile fara intersectii.
+Tema 3. (10p, termen 02.11 (S.I.) / 09.11 (S.P.)) Implementati o rotatie in jurul unui centru arbitrar. / Implementati o scalare cu centru fix si axe arbitrare.
+Tema 4. (10p, termen 07.12) 
+LA ALEGERE: 
+MINI SISTEM SOLAR: De reprezentat este un sistem solar care contine cel putin: o stea centrala, o planeta si un satelit al planetei (nu e nevoie de perfectiune pt. a sugera ca sunt rotunde). Planeta se roteste in jurul stelei centrale si satelitul in jurul planetei a.i. atunci cand planeta incheie o rotatie completa, satelitul incheie patru rotatii in jurul planetei (i.e. atunci cand planeta efectueaza un sfert de rotatie, satelitul efectueaza o rotatie completa).
+DOMINO 2D: De reprezentat este un domino 2D format din dreptunghiuri avand aceeasi dimensiune. Primul incepe sa se miste (rotatie in jurul unui punct -indicat in figura) si le angreneaza si pe celelalte. 
+DEPASIRE: Simulati o "depasire": un dreptunghi se deplaseaza uniform (prin translatie), un alt dreptunghi vine din spate (tot prin translatii), la un moment dat intra in depasire, apoi trece in fata primului.
+JOC DE BILIARD: Creati un biliard 2D (cu reguli pe care le definiti voi); coliziunile sa fie reprezentate cat mai realist.
+STOL DE PASARI: Creati un "stol de pasari" (2D), acesta se deplaseaza; in timpul deplasarii pasarile isi schimba locurile intre ele.
+TEMA LIBER ALEASA: Creati o scena 2D in care sa folositi transformari, compunerea transformarilor, gestionarea stivei de matrice de modelare.
+Tema 5. (15p, termen 11.01 (S.I.) / 18.01 (S.P.)) Realizati o scena 3D care sa includa diverse obiecte, inclusiv suprafete de rotatie (5p). "Survolati" aceasta scena si utilizati transformari cat mai variate, implementand metode indicate la curs (5p). Utilizati modele de iluminare si ilustrati diverse efecte vizuale (5p). Proiectul este insotit de o scurta documentatie.
