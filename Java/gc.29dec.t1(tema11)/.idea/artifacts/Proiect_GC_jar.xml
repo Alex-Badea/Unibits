@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proiect GC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proiect_GC_jar</output-path>
+    <root id="archive" name="Proiect GC.jar">
+      <element id="module-output" name="Proiect GC" />
+    </root>
+  </artifact>
+</component>

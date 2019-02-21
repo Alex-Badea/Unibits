@@ -1,7 +1,0 @@
-﻿  main.cpp
-d:\foldere\onedrive\documente\proiecte\c++\cgg_22nov_t1\cgg_22nov_t1\main.cpp(209): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-d:\foldere\onedrive\documente\proiecte\c++\cgg_22nov_t1\cgg_22nov_t1\main.cpp(210): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-d:\foldere\onedrive\documente\proiecte\c++\cgg_22nov_t1\cgg_22nov_t1\main.cpp(211): warning C4305: 'initializing': truncation from 'double' to 'float'
-  loadShaders.cpp
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
