@@ -1,6 +1,7 @@
 package parser;
 
-import com.sun.istack.internal.Nullable;
+import org.jetbrains.annotations.Nullable;
+
 import parser.grammar.*;
 
 import java.util.Collection;
